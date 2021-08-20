@@ -1,0 +1,6 @@
+id,name,age,address,salary,status,in_ts,out_ts
+1,Alice,22,"22, Chandni Chowk, Akbar Road, Delhi 230001",140034.12,INITIATED,1629355155,1629356155.0
+1,Alice,22,"22, Chandni Chowk, Akbar Road, Delhi 230001",140034.12,DOC_UPLOADED,1629355155,1629356155.0
+1,Alice,22,"22, Chandni Chowk, Akbar Road, Delhi 230001",140034.12,VERIFIED,1629355155,
+2,Bob,33,"33, Gandhi Chowk, Akbar Road, Delhi 230001",34004.0,INITIATED,1629356155,1629357155.0
+2,Bob,33,"33, Gandhi Chowk, Akbar Road, Delhi 230001",34004.0,DOC_UPLOADED,1629356155,
